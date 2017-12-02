@@ -1,1 +1,1 @@
-# dev-nginx
+This project helps manage dev environment.
